@@ -1,24 +1,49 @@
-# README
+# PixeLove
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+PixeLove is a collaborative drawing tool for creating adorable pixel art themed cards for loved ones!
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+1) Clone the frontend to your machine (https://github.com/shawnhuangfernandes/PixeLove-Client)
+2) Clone the backend to your machine (https://github.com/shawnhuangfernandes/PixeLove-Server)
+3) run the backend on port 3000 by using ```rails s```
+4) install frontend dependencies using ```npm i```
+5) run the frontend on port 3001 using ```npm start```
+6) edit/use the app!
 
-* System dependencies
+### Prerequisites
 
-* Configuration
+TBD
 
-* Database creation
+### Installing
 
-* Database initialization
+1) Clone the frontend to your machine (https://github.com/shawnhuangfernandes/PixeLove-Client)
+2) Clone the backend to your machine (https://github.com/shawnhuangfernandes/PixeLove-Server)
+3) run the backend on port 3000 by using ```rails s```
+4) install frontend dependencies using ```npm i```
+5) run the frontend on port 3001 using ```npm start```
+6) edit/use the app!
 
-* How to run the test suite
+A Demo is the works!
 
-* Services (job queues, cache servers, search engines, etc.)
+## Running the tests
 
-* Deployment instructions
+TBD
 
-* ...
+## Contributing
+
+TBD 
+
+## Authors
+
+**Alicia Chao** 
+**Christian Kastner**
+**Shawn Huang Fernandes**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+DemocracyLab - For providing a Hackathon space to work on this project!
