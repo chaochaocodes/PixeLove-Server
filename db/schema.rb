@@ -16,7 +16,7 @@ ActiveRecord::Schema.define(version: 2020_05_09_184126) do
   enable_extension "plpgsql"
 
   create_table "cells", force: :cascade do |t|
-    t.string "color", default: 'ffffff'
+    t.string "color"
     t.integer "index"
     t.integer "room_id"
     t.datetime "created_at", precision: 6, null: false
