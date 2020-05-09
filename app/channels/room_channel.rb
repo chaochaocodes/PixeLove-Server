@@ -10,6 +10,6 @@ class RoomChannel < ApplicationCable::Channel
 
   def receive(data)
     # do stuff with incoming data
-    ActionCable.server.broadcast("rooms_channel_2", data)
+    ActionCable.server.broadcast("rooms_channel_1", data)
   end
 end
